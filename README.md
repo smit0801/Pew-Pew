@@ -1,4 +1,4 @@
-# 🚀 Asteroids (CLI Game)
+# 🚀 Pew-Pew (CLI Game)
 
 A classic **Asteroids-style arcade game** reimagined for the **command line**, built entirely in **Python**.  
 Dodge incoming asteroids, shoot them down, and survive as long as you can — all from your terminal.
@@ -7,8 +7,9 @@ Dodge incoming asteroids, shoot them down, and survive as long as you can — al
 
 - Control a spaceship in a text-based arena
 - Avoid or destroy incoming asteroids
-- Score points for every asteroid destroyed
+- Larger asteroids break off into smaller asteroids on shooting
 - Game ends when your ship collides with an asteroid
+  
 
 Simple mechanics, fast reflexes, and terminal fun.
 
@@ -26,3 +27,4 @@ Simple mechanics, fast reflexes, and terminal fun.
 2.Run the game:
 
   uv run main.py
+
